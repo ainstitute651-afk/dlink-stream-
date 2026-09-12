@@ -1,0 +1,7 @@
+{
+  "name": "Universal Video Player",
+  "description": "A modern, responsive universal video player supporting direct media files, HLS streams, embedded video platforms, subtitles, history, favorites, and playlists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
